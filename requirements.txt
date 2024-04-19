@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn==1.4.0
+streamlit
+xgboost
+matplotlib
+nltk
+wordcloud
+regex
